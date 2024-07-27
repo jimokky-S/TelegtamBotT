@@ -33,6 +33,8 @@ namespace TelegtamBotT
                 {
                     try
                     {
+
+
                         if (item.message.text == "Photo")
                         {
                             string srcPic = @"D:\1.jpg";
